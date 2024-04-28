@@ -1,8 +1,7 @@
-# learning-flappy-bird
-neural net project
+# Flappy-bird-python
+A basic Flappy Bird game made in Python
 
-base flappy bird py game
-https://github.com/LeonMarqs/Flappy-bird-python/tree/master 
+I took the assets from https://github.com/zhaolingzhi/FlapPyBird-master | Credits to him
 
 ## How to run 
 The Agent program can be set to training or to play automatically.
@@ -21,8 +20,14 @@ To train, under the main heading set:
 So far 350 has provided best results, and 1000 has been overtrained meaning the agent quickly dies. You can observe the automatic play
 of these models by making a copy and bringing them out of the folder, renaming them to simply pre_train.pth.
 
+## Current State:
+![Screenshot](https://github.com/LeonMarqs/Flappy-bird-python/blob/master/Screenshot_1.png)
+
 ## Dependence:
 * pygame
 
 ## Contribution
 It's a simple model, so I'd be very grateful if you could help me to improve the game.
+
+
+

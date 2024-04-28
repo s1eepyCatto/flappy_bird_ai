@@ -1,0 +1,15 @@
+350 | avg. 40.44
+350 | avg. 46.67 (eplison_min = 0)
+350 | avg. 0.67 (lr = 0.002) 10:34 -11:06
+350 | avg. 3.11 batchsize = 5, clock = 80
+350 | avg. 1 clock = 200
+350 | avg. 200  clock = 50
+350 | avg. 0.89  clock = 60
+450 |
+350 | 16 nodes
+350 | 64 nodes
+
+
+
+
+base clock = 40, epoch = 250 
